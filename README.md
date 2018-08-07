@@ -81,3 +81,10 @@ expect(mixed).toMatch(pattern);
 expect(fn).toThrow(string);
 
 expect(fn).toThrowError(string);
+
+## Dependencies for the project
+Normalize.css
+
+Icomoon.css
+
+Jasmine framework

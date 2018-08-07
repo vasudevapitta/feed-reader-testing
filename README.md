@@ -47,20 +47,37 @@ You may find more information about [Jasmine frame work](https://jasmine.github.
 
 ## Most commonly used Jasmine Matchers
 expect(instance).toBe(instance);
+
 expect(number).toBeCloseTo(number, decimalPlaces);
+
 expect(mixed).toBeDefined();
+
 expect(mixed).toBeFalsy();
+
 expect(number).toBeGreaterThan(number);
+
 expect(number).toBeLessThan(number);
+
 expect(number).toBeNaN();
+
 expect(mixed).toBeNull();
+
 expect(mixed).toBeTruthy();
+
 expect(mixed).toBeUndefined();
+
 expect(array).toContain(member);
+
 expect(mixed).toEqual(mixed);
+
 expect(spy).toHaveBeenCalled();
+
 expect(spy).toHaveBeenCalledTimes(number);
+
 expect(spy).toHaveBeenCalledWith(...arguments);
+
 expect(mixed).toMatch(pattern);
+
 expect(fn).toThrow(string);
+
 expect(fn).toThrowError(string);

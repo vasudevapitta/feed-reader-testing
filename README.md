@@ -88,3 +88,5 @@ Normalize.css
 Icomoon.css
 
 Jasmine framework
+
+jQuery

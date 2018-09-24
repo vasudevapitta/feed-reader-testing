@@ -1,5 +1,5 @@
 # Feed Reader Testing
-This project consists of test suites built using the Jasmine framework to test against a RSS Feed app.
+This project consists of test suites built using the Jasmine framework to test against a [RSS](https://en.wikipedia.org/wiki/RSS) Feed app.
 
 ## Running the application
 
